@@ -1,0 +1,75 @@
+.navbar-default {
+    background-color: #fff;
+    border-color: #e7e7e7;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #333;
+    font-weight: bold;
+}
+.navbar-default .navbar-nav>li>a:hover {
+    border-bottom: 2px solid blue
+}
+body{
+	background-color: #f3f3f3;
+  font-family: 'Nunito', sans-serif;
+
+
+}
+.container .jumbotron, .container-fluid .jumbotron {
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 0px;
+	background-color:white;
+	padding-top:10px;
+}
+
+.jumbotron {
+    padding-top: 10px;
+    padding-bottom: 15px;
+    margin-bottom: 5px;
+    color: inherit;
+
+}
+
+.act {
+	border-bottom: 2px solid blue;
+}
+.container .jumbotron{
+	padding-top:15px;
+
+}
+.dot{
+	background-color:#38d9e2;
+	border: 1px solid red;
+	border-radius:50%;
+}
+ .well{
+
+    margin: 40px;
+    background-color: #fff;
+
+}
+.atag {
+	text-decoration:none;
+	color:#2ad0d6;
+}
+.atag:hover{
+	text-decoration:none;
+	color:#03b9ef;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+nav{
+	margin-bottom: 0 !important;
+}
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding-right:38px;
+}
+.navbar-nav>li>a {
+  font-weight: bold;
+}
